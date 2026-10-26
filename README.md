@@ -1,2 +1,4 @@
 # Hello World
-Criando primeiro repositorio
+Criando primeiro repositório de Git e GuitHub
+
+Criado durante a auala
